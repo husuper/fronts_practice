@@ -1,8 +1,8 @@
 /*
  * @Author: 胡健炜 hujianwei@china95059.com
  * @Date: 2023-06-27 15:08:28
- * @LastEditors: hujianwei hujianwei@china95059.com
- * @LastEditTime: 2023-06-28 16:32:23
+ * @LastEditors: hujianwei 627138325@qq.com
+ * @LastEditTime: 2023-06-29 16:34:52
  * @FilePath: /demo1/src/App.tsx
  * @Description:
  *
@@ -21,6 +21,10 @@
 import React from 'react'
 import logo from './logo.svg'
 import './App.css'
+
+interface User {
+  name: string
+}
 
 function App() {
   return (
