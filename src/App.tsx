@@ -1,6 +1,26 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+/*
+ * @Author: 胡健炜 hujianwei@china95059.com
+ * @Date: 2023-06-27 15:08:28
+ * @LastEditors: hujianwei hujianwei@china95059.com
+ * @LastEditTime: 2023-06-28 16:32:23
+ * @FilePath: /demo1/src/App.tsx
+ * @Description:
+ *
+ * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
+ */
+/*
+ * @Author: 胡健炜 hujianwei@china95059.com
+ * @Date: 2023-06-27 15:08:28
+ * @LastEditors: 胡健炜 hujianwei@china95059.com
+ * @LastEditTime: 2023-06-28 15:32:07
+ * @FilePath: /demo1/src/App.tsx
+ * @Description:
+ *
+ * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
+ */
+import React from 'react'
+import logo from './logo.svg'
+import './App.css'
 
 function App() {
   return (
@@ -20,7 +40,7 @@ function App() {
         </a>
       </header>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
